@@ -1,9 +1,9 @@
 # Pentester & Cybersecurity Researcher
 ## 💻 Skills
-🔹 Pentest: Web & Infra
-🔹 Web Development: Full Stack
-🔹 Networking: TCP/IP, Protocols
-🔹 Operating Systems: Linux & Windows
+- Pentest: Web & Infra
+- Web Development: Full Stack
+- Networking: TCP/IP, Protocols
+- Operating Systems: Linux & Windows
 
 ## 📝 Programming Languages
 🔹 PHP, JavaScript, Python, C, Bash
