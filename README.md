@@ -1,16 +1,16 @@
-## Hi there 👋
+##Pentester and Cybersecurity Researcher
 
-<!--
-**lsbxa/lsbxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##💻Skills
+- Pentest Web and Infra
+- Web Development(Full stack)
+- Network(TCP/IP, Protocols)
+- Operating Systems(Linux, Windows)
 
-Here are some ideas to get you started:
+##📝Programming Languages
+PHP, JavaScript, Python, C, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🔨Tools
+burpsuit, nmap, sqlmap, ffuf, nikito, wireshark, etc...
+
+##Rooted Machines on THM
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3231018" style='border:none;'></iframe>
