@@ -11,5 +11,5 @@
 ## 🔨 Tools
 🔹 Burp Suite, Nmap, SQLmap, FFUF, Nikto, Wireshark, etc.
 
-## 👨‍💻 Rooted Machines on tryhackme
+## 👨‍💻 Practical training
 <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="Your Image Badge" />
