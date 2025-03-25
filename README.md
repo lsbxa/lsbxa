@@ -9,7 +9,7 @@
 🔹 PHP, JavaScript, Python, C, Bash
 
 ## 🔨 Tools
-🔹 Burp Suite, Nmap, SQLmap, FFUF, Nikto, Wireshark, etc.
+🔹 Burp Suite, Nmap, SQLmap, FFUF, Wireshark, etc.
 
 ## 👨‍💻 Practical training
 <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="Your Image Badge" />
