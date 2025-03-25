@@ -1,7 +1,7 @@
 # Pentester & Cybersecurity Researcher
 ## 💻 Skills
 - Pentest: Web & Infra
-- Web Development: Full Stack (HTML, CSS, NodeJS, PHP, SQL)
+- Web Development: Full Stack (HTML, CSS, JS, PHP, SQL)
 - Network: TCP/IP, Protocols, Packet Analysis, NetSec
 - Operating Systems: Linux & Windows
 
