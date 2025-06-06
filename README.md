@@ -12,8 +12,9 @@
 🔹 Burp Suite, Nmap, SQLmap, FFUF, Wireshark, etc.
 
 ## 👨‍💻 Practical training
-<img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="Your Image Badge" />
 
 [![Static Badge](https://img.shields.io/badge/HackTheBox-lsbxa?style=for-the-badge&logo=hackthebox&label=lsbxa&color=brightgreen)](https://app.hackthebox.com/profile/2107354)
 
 [![Static Badge](https://img.shields.io/badge/HackingClub-lsbxa?style=for-the-badge&label=lsbxa&color=8000ff)](https://app.hackingclub.com/profile/user/21192)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="Your Image Badge" />
