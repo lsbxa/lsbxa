@@ -8,13 +8,13 @@ Passionate about offensive security, red teaming and low-level systems.
 - Web, Infrastructure, Network
 - Active Directory, Windows Internals
 
-## Web Development
+### Web Development
 - Full Stack: HTML, CSS, JavaScript, PHP, SQL
-## Networking:
+### Networking:
 - TCP/IP, Protocols
 - Packet Analysis, Network Security
 
-## Operating Systems
+### Operating Systems
 - Linux
 - Windows
 
