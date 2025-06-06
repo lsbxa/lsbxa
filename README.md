@@ -3,10 +3,20 @@
 Passionate about offensive security, red teaming and low-level systems.
 
 ## Skills
-- Pentesting: Web, Infrastructure, Network
-- Web Development: Full Stack (HTML, CSS, JavaScript, PHP, SQL)
-- Networking: TCP/IP, Protocols, Packet Analysis, Network Security
-- Operating Systems: Linux, Windows
+
+### Pentesting
+- Web, Infrastructure, Network
+- Active Directory, Windows Internals
+
+## Web Development
+- Full Stack: HTML, CSS, JavaScript, PHP, SQL
+## Networking:
+- TCP/IP, Protocols
+- Packet Analysis, Network Security
+
+## Operating Systems
+- Linux
+- Windows
 
 ## Programming Languages
 - PHP
@@ -23,7 +33,7 @@ Passionate about offensive security, red teaming and low-level systems.
 - FFUF
 - Wireshark
 - Impacket
-- Metasploit
+- Metasploit Framework
 
 ## Practical training
 
