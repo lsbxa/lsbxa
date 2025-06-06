@@ -1,4 +1,7 @@
 # Pentester & Cybersecurity Researcher
+
+Passionate about offensive security, red teaming and low-level systems.
+
 ## Skills
 - Pentesting: Web, Infrastructure, Network
 - Web Development: Full Stack (HTML, CSS, JavaScript, PHP, SQL)
