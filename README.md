@@ -10,21 +10,18 @@ Passionate about offensive security, red teaming and low-level systems.
 
 ### Web Development
 - Full Stack: HTML, CSS, JavaScript, PHP, SQL
+
 ### Networking:
 - TCP/IP, Protocols
 - Packet Analysis, Network Security
+- IDS/IPS
 
 ### Operating Systems
 - Linux
 - Windows
 
 ## Programming Languages
-- PHP
-- JavaScript
-- Python
-- C
-- Bash
-- Assembly
+- PHP, JavaScript, Python, C, Bash, Assembly
 
 ## Tools
 - Burp Suite
