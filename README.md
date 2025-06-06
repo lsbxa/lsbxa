@@ -1,17 +1,28 @@
 # Pentester & Cybersecurity Researcher
-## 💻 Skills
-- Pentest: Web & Infra
-- Web Development: Full Stack (HTML, CSS, JS, PHP, SQL)
-- Network: TCP/IP, Protocols, Packet Analysis, NetSec
-- Operating Systems: Linux & Windows
+## Skills
+- Pentesting: Web, Infrastructure, Network
+- Web Development: Full Stack (HTML, CSS, JavaScript, PHP, SQL)
+- Networking: TCP/IP, Protocols, Packet Analysis, Network Security
+- Operating Systems: Linux, Windows
 
-## 📝 Programming Languages
-🔹 PHP, JavaScript, Python, C, Bash
+## Programming Languages
+- PHP
+- JavaScript
+- Python
+- C
+- Bash
+- Assembly
 
-## 🔨 Tools
-🔹 Burp Suite, Nmap, SQLmap, FFUF, Wireshark, etc.
+## Tools
+- Burp Suite
+- Nmap
+- SQLmap
+- FFUF
+- Wireshark
+- Impacket
+- Metasploit
 
-## 👨‍💻 Practical training
+## Practical training
 
 [![Static Badge](https://img.shields.io/badge/HackTheBox-lsbxa?style=for-the-badge&logo=hackthebox&label=lsbxa&color=brightgreen)](https://app.hackthebox.com/profile/2107354)
 
