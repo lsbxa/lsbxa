@@ -1,4 +1,4 @@
-# Pentester & Cybersecurity Researcher
+# Pentester and Cybersecurity Researcher
 
 Passionate about offensive security, red teaming and low-level systems.
 
