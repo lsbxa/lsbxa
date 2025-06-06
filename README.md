@@ -14,12 +14,6 @@
 ## 👨‍💻 Practical training
 <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="Your Image Badge" />
 
-![htbi (1)](https://github.com/user-attachments/assets/fd64aa0d-57f3-4b32-b14b-e973334ad2ef)
-HackTheBox
+![Static Badge](https://img.shields.io/badge/HackTheBox-lsbxa?style=for-the-badge&logo=hackthebox&label=lsbxa&color=brightgreen&link=https%3A%2F%2Fapp.hackthebox.com%2Fprofile%2F2107354)
 
-https://app.hackthebox.com/profile/2107354
-
-![hc (1)](https://github.com/user-attachments/assets/19572d9a-24a8-435e-8e57-f9a3e29b3314)
-HackingClub
-
-https://app.hackingclub.com/profile/user/21192
+![Static Badge](https://img.shields.io/badge/HackingClub-lsbxa?style=for-the-badge&label=lsbxa&color=8000ff&link=https%3A%2F%2Fapp.hackingclub.com%2Fprofile%2Fuser%2F21192)
