@@ -24,13 +24,7 @@ Passionate about offensive security, red teaming and low-level systems.
 - PHP, JavaScript, Python, C, Bash, Assembly
 
 ## Tools
-- Burp Suite
-- Nmap
-- SQLmap
-- FFUF
-- Wireshark
-- Impacket
-- Metasploit Framework
+- Burp Suite, Nmap, SQLmap, FFUF, Wireshark, Impacket, Metasploit Framework
 
 ## Practical training
 
