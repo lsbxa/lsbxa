@@ -4,7 +4,7 @@ Passionate about pentesting, red teaming, low-level and malware research.
 
 ## Skills
 
-- Pentesting: Web, Networks and Active Directory
+- Pentesting: Web, Network and Active Directory
 - Reverse Engineering and Malware Analysis
 
 ## Web Development
