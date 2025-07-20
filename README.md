@@ -15,7 +15,7 @@ Passionate about pentesting, red teaming, low-level and malware research.
 - Windows
 
 ## Programming Languages
-- C/C++, Assembly x86, JavaScript, Python, Bash
+- C/C++, x86 Assembly, JavaScript, Python, Bash
 
 ## Practical training
 
