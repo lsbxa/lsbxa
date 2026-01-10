@@ -1,4 +1,4 @@
-# Pentester and Cybersecurity Researcher
+# Red Team Operator and Cybersecurity Researcher
 
 Passionate about pentesting, red teaming, low-level and malware research.
 
