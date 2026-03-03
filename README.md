@@ -9,16 +9,16 @@ Passionate about Offensive Security.
 
 ## Operating Systems
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
 </div>
 
 ## Programming Languages
 <div align="left">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assembly&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assembly&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" />
 </div>
 
 ## Practical training
@@ -32,6 +32,5 @@ Passionate about Offensive Security.
 
 ## Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsbxa&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsbxa&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
-<br/>
