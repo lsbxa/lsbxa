@@ -46,6 +46,3 @@ Passionate about pentesting, red teaming, low-level and malware research.
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsbxa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="Your Image Badge" />
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=lsbxa&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lsbxa&layout=compact&theme=tokyonight)
