@@ -33,5 +33,5 @@ Passionate about Offensive Security.
 
 ## Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsbxa&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsbxa&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
