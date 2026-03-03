@@ -2,8 +2,10 @@
   <img src="https://i.pinimg.com/originals/de/54/eb/de54ebc711042d480a0a6b82427428bb.gif" alt="Intro Animada" width="1500" />
 </div>
 <div align="center">
-  <img width="49.5%" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" alt="Top Languages" />
-  <img width="49.5%" height="800" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsbxa&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+<div align="center">
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" alt="Top Languages" width="400" />
 </div>
 <br/>
 <div align="left">
