@@ -37,7 +37,6 @@ Passionate about pentesting, red teaming, and malware research.
   <a href="https://app.hackingclub.com/profile/user/21192">
     <img src="https://img.shields.io/badge/HackingClub-lsbxa?style=for-the-badge&label=lsbxa&color=8000ff" alt="HackingClub" />
   </a>
-  <br/><br/>
   <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe Badge" width="225" />
 </div>
 
