@@ -31,8 +31,8 @@ Passionate about pentesting, red teaming, and malware research.
 ## Practical training
 
 <div align="left">
-  <a href="https://app.hackthebox.com/profile/2107354">
-    <img src="https://img.shields.io/badge/HackTheBox-lsbxa?style=for-the-badge&logo=hackthebox&label=lsbxa&color=brightgreen" alt="HTB" />
+  <a href="https://app.hackthebox.com/public/users/2107354">
+    <img src="https://www.hackthebox.eu/badge/image/2107354" alt="Hack The Box Stats" />
   </a>
   <a href="https://app.hackingclub.com/profile/user/21192">
     <img src="https://img.shields.io/badge/HackingClub-lsbxa?style=for-the-badge&label=lsbxa&color=8000ff" alt="HackingClub" />
