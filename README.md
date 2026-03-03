@@ -2,8 +2,8 @@
   <img src="https://i.pinimg.com/originals/de/54/eb/de54ebc711042d480a0a6b82427428bb.gif" alt="Intro Animada" width="1500" />
 </div>
 <div align="left">
-  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=lsbxa&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  <img height="200" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" alt="Top Languages" />
+  <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=lsbxa&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img height="250" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" alt="Top Languages" />
 </div>
 <br/>
 <div align="left">
