@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/b9/ea/c3/b9eac3802167ec7015d8e74be8a85711.gif" alt="Intro Animada" width="1500" />
 </div>
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&duration=4000&pause=2000&color=FFFFF&width=800&lines=Red+Team+Operator+%26+Malware+Researcher;Red+Team+Operator+%26+Malware+Researcher" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&duration=4000&pause=2000&color=FFFFFF&width=800&lines=Red+Team+Operator+%26+Malware+Researcher;Red+Team+Operator+%26+Malware+Researcher" alt="Typing Animation" />
 </div>
 
 Passionate about Offensive Security.
