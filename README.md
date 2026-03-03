@@ -24,3 +24,6 @@ Passionate about pentesting, red teaming, low-level and malware research.
 [![Static Badge](https://img.shields.io/badge/HackingClub-lsbxa?style=for-the-badge&label=lsbxa&color=8000ff)](https://app.hackingclub.com/profile/user/21192)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="Your Image Badge" />
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=lsbxa&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lsbxa&layout=compact&theme=tokyonight)
