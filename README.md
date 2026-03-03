@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Malware+Researcher;Cybersecurity+Enthusiast" alt="Typing Animation" />
+</div>
+
+<br/>
+
 # Red Team Operator and Cybersecurity Researcher
 
 Passionate about pentesting, red teaming, low-level and malware research.
