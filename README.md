@@ -4,8 +4,8 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Malware+Researcher;&quote_typing=true&cursor=true&cursor_blink=true&backspace=true" alt="Typing Animation" />
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&duration=4000&pause=2000&color=FF0000&width=800&lines=Red+Team+Operator+%26+Malware+Researcher" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -34,7 +34,8 @@ Passionate about pentesting, red teaming, low-level and malware research.
 - C/C++, x86 Assembly, JavaScript, Python, Bash
 
 ## Practical training
-<div align="center">
+
+<div align="left">
   <a href="https://app.hackthebox.com/profile/2107354">
     <img src="https://img.shields.io/badge/HackTheBox-lsbxa?style=for-the-badge&logo=hackthebox&label=lsbxa&color=brightgreen" alt="HTB" />
   </a>
@@ -45,7 +46,9 @@ Passionate about pentesting, red teaming, low-level and malware research.
   <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe Badge" />
 </div>
 
-<div align="center">
+<br/>
+
+<div align="left">
   <img height="165em" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
