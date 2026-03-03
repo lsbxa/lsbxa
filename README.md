@@ -7,15 +7,15 @@
 </div>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&duration=4000&pause=2000&color=FF0000&width=800&lines=Red+Team+Operator+%26+Malware+Researcher;Red+Team+Operator+%26+Malware+Researcher" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&duration=4000&pause=2000&color=FF0000&width=800&lines=Red+Team+Operator+%26+Malware+Researcher;Red+Team+Operator+%26+Malware+Researcher" alt="Typing Animation" width="500" />
 </div>
 
 Passionate about Offensive Security.
 
 ## Operating Systems
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000" width="500" />
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FF0000" width="500" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FF0000" />
 </div>
 
 ## Programming Languages
