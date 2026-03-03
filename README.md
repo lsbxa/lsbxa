@@ -7,7 +7,7 @@
 </div>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&duration=4000&pause=2000&color=FF0000&width=800&lines=Red+Team+Operator+%26+Malware+Researcher;Red+Team+Operator+%26+Malware+Researcher" alt="Typing Animation" width="500" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&duration=4000&pause=2000&color=FF0000&width=800&lines=Red+Team+Operator+%26+Malware+Researcher;Red+Team+Operator+%26+Malware+Researcher" alt="Typing Animation" width="900" />
 </div>
 
 Passionate about Offensive Security.
