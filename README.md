@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Malware+Researcher;Cybersecurity+Enthusiast" alt="Typing Animation" />
+  <img src="https://i.pinimg.com/originals/35/bc/f6/35bcf6447de5148329b29a8a6ceb36f5.gif" alt="Intro Animada" width="800" />
 </div>
 
 <br/>
@@ -42,7 +42,6 @@ Passionate about pentesting, red teaming, low-level and malware research.
 </div>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lsbxa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsbxa&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165em" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="Your Image Badge" />
