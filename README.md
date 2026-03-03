@@ -34,9 +34,6 @@ Passionate about pentesting, red teaming, and malware research.
   <a href="https://app.hackthebox.com/public/users/2107354">
     <img src="https://www.hackthebox.eu/badge/image/2107354" alt="Hack The Box Stats" />
   </a>
-  <a href="https://app.hackingclub.com/profile/user/21192">
-    <img src="https://img.shields.io/badge/HackingClub-lsbxa?style=for-the-badge&label=lsbxa&color=8000ff" alt="HackingClub" />
-  </a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe Badge" width="225" />
 </div>
 
