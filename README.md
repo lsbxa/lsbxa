@@ -35,7 +35,7 @@ Passionate about pentesting, red teaming, and malware research.
     <img src="https://www.hackthebox.eu/badge/image/2107354" alt="Hack The Box Stats" width="220" />
   </a>
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe Badge" width="210" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe Badge" width="230" />
 
 <br/>
 
