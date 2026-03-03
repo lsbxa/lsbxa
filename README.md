@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/de/54/eb/de54ebc711042d480a0a6b82427428bb.gif" alt="Intro Animada" width="1500" />
+  <img src="https://i.pinimg.com/originals/b9/ea/c3/b9eac3802167ec7015d8e74be8a85711.gif" alt="Intro Animada" width="1500" />
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsbxa&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
