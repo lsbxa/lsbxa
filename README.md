@@ -10,10 +10,6 @@
 
 Passionate about Offensive Security.
 
-## Skills
-- Pentesting: Web, Network and Active Directory
-- Reverse Engineering and Malware Analysis
-
 ## Operating Systems
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
