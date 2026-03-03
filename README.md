@@ -5,11 +5,11 @@
   <img height="165em" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" alt="Top Languages" />
 </div>
-
+<br/>
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&duration=4000&pause=2000&color=FF0000&width=800&lines=Red+Team+Operator+%26+Malware+Researcher;Red+Team+Operator+%26+Malware+Researcher" alt="Typing Animation" />
 </div>
-<br/>
+
 Passionate about Offensive Security.
 
 ## Operating Systems
