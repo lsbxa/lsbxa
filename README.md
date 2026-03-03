@@ -37,8 +37,6 @@ Passionate about pentesting, red teaming, and malware research.
 </div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe Badge" width="220" />
 
-<br/>
-
 ## Stats
 <div align="left">
   <img height="165em" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
