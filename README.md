@@ -18,10 +18,10 @@ Passionate about Offensive Security.
 
 ## Programming Languages
 <div align="left">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly_x86-8E2CA?style=for-the-badge&logo=assembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assembly&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FF0000" />
 </div>
 
 ## Practical training
