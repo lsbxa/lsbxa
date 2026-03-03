@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8f/05/12/8f0512847e341c4cdb9cb0f510acefb9.gif" alt="Intro Animada" width="1500" />
+  <img src="https://i.pinimg.com/originals/1f/90/76/1f9076b6cc39ab56e98541f505434e02.gif" alt="Intro Animada" width="1500" />
 </div>
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&duration=4000&pause=2000&color=FF0000&width=800&lines=Red+Team+Operator+%26+Malware+Researcher;Red+Team+Operator+%26+Malware+Researcher" alt="Typing Animation" />
