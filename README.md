@@ -30,11 +30,21 @@ Passionate about pentesting, red teaming, low-level and malware research.
 - C/C++, x86 Assembly, JavaScript, Python, Bash
 
 ## Practical training
+<div align="center">
+  <a href="https://app.hackthebox.com/profile/2107354">
+    <img src="https://img.shields.io/badge/HackTheBox-lsbxa?style=for-the-badge&logo=hackthebox&label=lsbxa&color=brightgreen" alt="HTB" />
+  </a>
+  <a href="https://app.hackingclub.com/profile/user/21192">
+    <img src="https://img.shields.io/badge/HackingClub-lsbxa?style=for-the-badge&label=lsbxa&color=8000ff" alt="HackingClub" />
+  </a>
+  <br/><br/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe Badge" />
+</div>
 
-[![Static Badge](https://img.shields.io/badge/HackTheBox-lsbxa?style=for-the-badge&logo=hackthebox&label=lsbxa&color=brightgreen)](https://app.hackthebox.com/profile/2107354)
-
-[![Static Badge](https://img.shields.io/badge/HackingClub-lsbxa?style=for-the-badge&label=lsbxa&color=8000ff)](https://app.hackingclub.com/profile/user/21192)
-
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lsbxa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsbxa&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="Your Image Badge" />
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=lsbxa&show_icons=true&theme=tokyonight)
