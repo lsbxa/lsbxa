@@ -35,4 +35,6 @@ Passionate about Offensive Security.
 ## Stats
 <div align="left">
   <img height="220" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/>
+  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" />
 </div>
