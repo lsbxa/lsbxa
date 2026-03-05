@@ -33,6 +33,6 @@ Passionate about Offensive Security.
 <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe Badge" width="220" />
 
 ## Stats
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsbxa&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<div align="left">
+  <img src="https://metrics.lecoq.io/lsbxa?template=terminal&base=activity,repositories,metadata&languages=yes&languages.limit=6" alt="GitHub Metrics" width="800" />
 </div>
