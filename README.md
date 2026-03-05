@@ -34,5 +34,6 @@ Passionate about Offensive Security.
 
 ## Stats
 <div align="left">
-  <img src="https://metrics.lecoq.io/lsbxa?template=terminal&base=activity,repositories,metadata&languages=yes&languages.limit=6" alt="GitHub Metrics" width="800" />
+  <img height="195" src="https://github-readme-activity-graph.vercel.app/graph?username=lsbxa&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img height="195" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
 </div>
