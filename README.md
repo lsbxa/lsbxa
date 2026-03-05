@@ -34,5 +34,6 @@ Passionate about Offensive Security.
 
 ## Stats
 <div align="left">
-  <img height="230" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&rank_icon=github" />
+  <img src="https://streak-stats.demolab.com?user=lsbxa&theme=black-ice&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" />
 </div>
