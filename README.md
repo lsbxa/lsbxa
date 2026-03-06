@@ -42,14 +42,14 @@
 ## Operating Systems
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=f7768e" />
-  <img src="https://img.shields.io/badge/Windows-1a1b26?style=for-the-badge&logo=windows&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=ff0000" />
+  <img src="https://img.shields.io/badge/Windows-1a1b26?style=for-the-badge&logo=windows&logoColor=ff0000" />
 </div>
 
 ## Langs
 
 <div align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&card_width=600&bg_color=1a1b26&title_color=f7768e&text_color=c0caf5&hide_border=true&langs_count=8&hide=html,css" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&card_width=600&bg_color=1a1b26&title_color=ff0000&text_color=c0caf5&hide_border=true&langs_count=8&hide=html,css" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
