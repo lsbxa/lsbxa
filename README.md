@@ -31,6 +31,18 @@
 ```
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=footer"/>
 
+## Operating Systems
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
+</div>
+
+## Stats
+
+<div align="left">
+  <img height="200" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
+
 ## Practical Training
 
 <div align="left">
@@ -40,28 +52,6 @@
   <br/>
   <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe" width="220" />
 </div>
-
-## Operating Systems
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
-</div>
-
-## Languages
-
-<div align="left">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assembly&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" />
-</div>
-
-## Stats
-
-<div align="left">
-  <img height="200" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
