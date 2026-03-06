@@ -39,7 +39,7 @@
 ## Stats
 
 <div align="left">
-  <img height="500" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=donut&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&langs_count=6" />
+  <img height="300" width="400" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=donut&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&langs_count=6" />
 <div/>
 
 ## Practical Training
