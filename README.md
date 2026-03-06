@@ -17,7 +17,6 @@
  ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝
 > Passionate about Offensive Security.
 ```
-<br/>
 
 ## 🖥️ Operating Systems
 
@@ -26,7 +25,7 @@
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
 </div>
 
-## Arsenal
+## Languages
 
 <div align="left">
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" />
