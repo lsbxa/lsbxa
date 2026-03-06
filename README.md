@@ -3,7 +3,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=16&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=620&height=40&lines=Red+Team+Operator+%26+Malware+Researcher;Offensive+Security+%7C+Adversary+Simulation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=100&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=620&height=40&lines=Red+Team+Operator+%26+Malware+Researcher;Offensive+Security+%7C+Adversary+Simulation" />
 </div>
 
 ```
