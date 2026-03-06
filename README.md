@@ -3,19 +3,19 @@
 </div>
 <br/>
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=620&height=40&lines=Red+Team+Operator+%26+Malware+Researcher;Offensive+Security+%7C+Adversary+Simulation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=620&height=40&lines=Red+Team+Operator+%26+Malware+Researcher;Offensive+Security+%7C+Adversary+Simulation" />
 </div>
 
 <br/>
 
 ```
-> Passionate about Offensive Security.
  ██████╗ ███████╗███████╗███████╗███████╗ ██████╗
 ██╔═══██╗██╔════╝██╔════╝██╔════╝██╔════╝██╔════╝
 ██║   ██║█████╗  █████╗  ██████╗ █████╗  ██║     
 ██║   ██║██╔══╝  ██╔══╝  ╚════██║██╔══╝  ██║     
 ╚██████╔╝██║     ██║     ███████║███████╗╚██████╗
  ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝
+> Passionate about Offensive Security.
 ```
 <br/>
 
