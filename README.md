@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=FFFFFF" />
 </div>
 
-<br/>
-
 ## Stats
 
 <div align="left">
