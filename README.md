@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/15/79/fe/1579feb3e44c8e658aac136445720687.gif" alt="Intro Animada" width="1500" />
+  <img src="https://i.pinimg.com/originals/b9/ea/c3/b9eac3802167ec7015d8e74be8a85711.gif" alt="Intro Animada" width="1500" />
 </div>
 <br/>
 <div align="left">
