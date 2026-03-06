@@ -30,8 +30,6 @@ C\> .\notevil.exe
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=footer"/>
 
-## Langs
-
 <div align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=compact&card_width=600&bg_color=1a1b26&title_color=ffffff&text_color=c0caf5&hide_border=true&langs_count=8&hide=html,css" />
 </div>
