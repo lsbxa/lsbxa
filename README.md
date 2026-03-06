@@ -29,6 +29,16 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=footer"/>
 
+## Practical Training
+
+<div align="left">
+  <a href="https://app.hackthebox.com/public/users/2107354">
+    <img src="https://www.hackthebox.eu/badge/image/2107354" alt="Hack The Box" width="220" />
+  </a>
+  <br/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe" width="220" />
+</div>
+
 ## Operating Systems
 
 <div align="left">
@@ -41,16 +51,6 @@
 <div align="left">
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=donut&card_width=700&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&langs_count=6" />
 <div/>
-
-## Practical Training
-
-<div align="left">
-  <a href="https://app.hackthebox.com/public/users/2107354">
-    <img src="https://www.hackthebox.eu/badge/image/2107354" alt="Hack The Box" width="220" />
-  </a>
-  <br/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe" width="220" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
