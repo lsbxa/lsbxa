@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b9/ea/c3/b9eac3802167ec7015d8e74be8a85711.gif" alt="Intro Animada" width="1500" />
+  <img src="https://i.pinimg.com/originals/96/a4/0e/96a40e9461a0149563942a54e8179c60.gif" alt="Intro Animada" width="1500" />
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=footer"/>
 <div align="left">
