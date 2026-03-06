@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=25&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=620&height=40&lines=Red+Team+Operator+%26+Malware+Researcher;Offensive+Security+%7C+Adversary+Simulation" />
+</div>
+<br/>
 ```
 > Passionate about Offensive Security.
                                                   ...                            
@@ -23,9 +27,6 @@
                                        ::::::`:::::;'  /  /   `#              hello
 ```
 <br/>
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=25&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=620&height=40&lines=Red+Team+Operator+%26+Malware+Researcher;Offensive+Security+%7C+Adversary+Simulation" />
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=footer"/>
 
