@@ -23,6 +23,11 @@ Passionate about Offensive Security.
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=FFFFFF" />
 </div>
 
+## Stats
+<div align="left">
+  <img height="220" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
+
 ## Practical training
 
 <div align="left">
@@ -31,8 +36,3 @@ Passionate about Offensive Security.
   </a>
 </div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/lsbxa.png" alt="TryHackMe Badge" width="220" />
-
-## Stats
-<div align="left">
-  <img height="220" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
