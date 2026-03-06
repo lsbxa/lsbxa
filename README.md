@@ -10,7 +10,7 @@
 > Passionate about Offensive Security.
 ```
 
-## 🖥️ Operating Systems
+## Operating Systems
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
