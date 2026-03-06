@@ -3,7 +3,7 @@
 </div>
 <br/>
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=620&height=40&lines=Red+Team+Operator+%26+Malware+Researcher;Offensive+Security+%7C+Adversary+Simulation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=16&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=620&height=40&lines=Red+Team+Operator+%26+Malware+Researcher;Offensive+Security+%7C+Adversary+Simulation" />
 </div>
 
 <br/>
