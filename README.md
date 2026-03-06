@@ -49,7 +49,7 @@
 ## Langs
 
 <div align="left">
-   <img src="https://metrics.lecoq.io/lsbxa?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsbxa&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&langs_count=8" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
