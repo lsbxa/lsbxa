@@ -1,4 +1,5 @@
 ```
+> Passionate about Offensive Security.
                                                   ...                            
                                                  ;::::;                           
                                                ;::::; :;                          
@@ -20,7 +21,6 @@
                                      `:::::`::::::::::::;'`:;::#                O 
                                       `:::::`::::::::;' /  / `:#                  
                                        ::::::`:::::;'  /  /   `#              hello
-> Passionate about Offensive Security.
 ```
 <br/>
 <div align="left">
