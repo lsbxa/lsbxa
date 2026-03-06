@@ -21,10 +21,10 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assembly&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assembly&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" />
 </div>
 
 ## Stats
