@@ -41,16 +41,12 @@
   <img height="200" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=donut&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&langs_count=6" />
 </div>
 
-<br/>
-
 ## Stats
 
 <div align="left">
   <img height="200" src="https://readme-stats-fast.vercel.app/api?username=lsbxa&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="200" src="https://streak-stats.demolab.com?user=lsbxa&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true" />
 </div>
-
-<br/>
 
 ## Practical Training
 
