@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
 </div>
 
-## Stats
+## Langs
 
 <div align="left">
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lsbxa&layout=donut&card_width=700&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&langs_count=6" />
