@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/82/51/0a/82510a4b1c0598ef1bfec856b3d1aa68.gif" alt="Intro Animada" width="1500" />
-</div>
-
 ```
 C\> .\notevil.exe
 > Passionate about Offensive Security.
