@@ -35,7 +35,7 @@ C:\> .\notevil.exe
                               ⠀⠀⡇⢸⠀⠀⠀⠀⢸⣿⠀⠀⢸⡇⠀⣿⡇⠀⣏⠀⠀⢸⡇⠀⠀⠀⠀⠀⢸⠀⢸⠆⠀⠀⢸⡇⠀⠀⠀⡿⠀⢸⡇⠀⠀
 ```
 
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=25&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=620&height=40&lines=Red+Team+Operator+%26+Security+Researcher;Offensive+Security+%7C+Adversary+Simulation" />
 </div>
 
